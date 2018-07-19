@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    xmlns:card_view="http://schemas.android.com/apk/res-auto"
+    android:layout_weight="1"
+    card_view:cardElevation="1dp"
+    android:layout_marginBottom="6dp"
+    card_view:cardPreventCornerOverlap="false">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="86dp"
+            android:orientation="vertical"
+            >
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="horizontal">
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal">
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="1"
+                        android:orientation="vertical">
+                        <TextView
+                            android:id="@+id/txt_peran"
+                            android:layout_width="90dp"
+                            android:layout_height="wrap_content"
+                            android:textSize="12dp"
+                            android:padding="2dp"
+                            android:gravity="center"
+                            android:textColor="@color/colorWhite"
+                            android:background="@color/colorOrangeFilkom"
+                            android:text="Ketua Majelis"/>
+                        <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:gravity="center_horizontal"
+                            android:paddingTop="10dp"
+                            android:orientation="vertical">
+                            <TextView
+                                android:id="@+id/txt_date"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textSize="15sp"
+                                android:textColor="@color/colorQuarts"
+                                android:text="08 Dec 2017"/>
+
+                            <TextView
+                                android:id="@+id/txt_time"
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:textSize="13sp"
+                                android:text="18.00 WIB"/>
+                        </LinearLayout>
+
+                    </LinearLayout>
+                    <View
+                        android:layout_width="2dp"
+                        android:layout_height="match_parent"
+                        android:background="@color/colorGrey"></View>
+                    <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="match_parent"
+                        android:layout_weight="0.5"
+                        android:layout_marginLeft="14dp"
+                        android:layout_marginRight="10dp"
+                        android:gravity="center_vertical"
+                        android:orientation="vertical">
+                        <TextView
+                            android:ellipsize="marquee"
+                            android:id="@+id/txt_title"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="14sp"
+                            android:gravity="left"
+                            android:layout_marginTop="10dp"
+                            android:textColor="@color/colorUclaBlue"
+                            android:letterSpacing="-0.02"
+                            android:text="Analisis Perancangan"
+                            android:singleLine="true" />
+                        <TextView
+                            android:id="@+id/txt_mahasiswa"
+                            android:layout_width="wrap_content"
+                            android:layout_height="wrap_content"
+                            android:textSize="12sp"
+                            android:ellipsize="marquee"
+                            android:layout_gravity="left"
+                            android:textColor="@color/colorManatee"
+                            android:singleLine="true" />
+                    </LinearLayout>
+                </LinearLayout>
+
+
+            </LinearLayout>
+        </LinearLayout>
+        <View
+            android:id="@+id/view_click"
+            android:layout_width="match_parent"
+            android:layout_height="76dp">
+
+        </View>
+    </FrameLayout>
+
+</android.support.v7.widget.CardView>

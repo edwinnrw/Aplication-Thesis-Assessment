@@ -1,0 +1,406 @@
+<resources>
+    <string name="app_name">FILKOMAPPS</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_fakultas">Fakultas Ilmu Komputer\nUniversitas Brawijaya</string>
+    <string-array name="peran">
+        <item>Pembimbing</item>
+        <item>Penguji</item>
+        <item>Ketua Majelis</item>
+    </string-array>
+    <string-array name="switch_btn">
+        <item>Tidak Hadir</item>
+        <item>Hadir</item>
+    </string-array>
+    <string-array name="predikat">
+        <item>Pilih Predikat</item>
+        <item>Lulus</item>
+        <item>Lulus Dengan Revisi</item>
+        <item>Tidak Lulus</item>
+    </string-array>
+    <string name="point_proses_pengerjaan_1">Kemampuan belajar dan bekerja independenaaaaaaaaaaaaaaaa</string>
+    <string name="point_proses_pengerjaan2">Kemampuan membuat perencanaan dan menjalankan</string>
+    <string name="point_proses_pengerjaan3">Kerja tim pembimbing dan mahasiswa</string>
+    <string name="point_proses_pengerjaan4">Sikap dan perilaku saat proses bimbingan</string>
+    <string-array name="alasan">
+        <item>Pilih Alasan</item>
+        <item>Sakit Mendadak</item>
+        <item>Keluarga Dekat Meninggal</item>
+        <item>Kecelakaan dalam perjalanan</item>
+        <item>Tidak Alasan Yang Sesuai</item>
+    </string-array>
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+    <string name="komponen1">Proses Pengerjaan Skripsi</string>
+    <string name='kriteria1.1'>Kemampuan belajar dan bekerja independen (mandiri)</string>
+    <string name='kriteria1.2'>Kemampuan membuat perencanaan dan menjalankan</string>
+    <string name='kriteria1.3'>Kerja tim pembimbing dan mahasiswa</string>
+    <string name='kriteria1.4'>Sikap dan perilaku saat proses bimbingan</string>
+    <string-array name="desc1.1.1">
+        <item>\u25CF  Mahasiswa tidak mampu menjelaskan arah penelitian dan analisis skripsi secara benar.
+            \n\n\u25CF Tidak mampu mengerjakan tugas/ instruksi/ revisi dari pembimbing.
+            \n\n\u25CF Tidak memiliki inisiatif tinggi untuk bertanya apabila menemukan hal-hal yang belum dimengerti dan tidak antusias selama bimbingan.</item>
+        <item>\u25CF Mahasiswa kurang mampu menjelaskan arah penelitian dan analisis skripsi secara benar.
+            \n\n\u25CF Tidak mampu mengerjakan tugas/ instruksi/ revisi dari pembimbing.
+            \n\n\u25CF Tidak memiliki inisiatif tinggi untuk bertanya apabila menemukan hal-hal yang belum dimengerti, namun kurang antusias dalam beberapa hal.</item>
+        <item>\u25CF Mahasiswa kurang mampu menjelaskan arah penelitian dan analisis skripsi secara benar.
+            \n\n\u25CF Mengerjakan tugas/ instruksi/ revisi dari pembimbing dengan bantuan dosen.
+            \n\n\u25CF Kurang Memiliki inisiatif untuk bertanya apabila menemukan hal-hal yang belum dimengerti serta namun kurang antusias dalam beberapa hal.</item>
+        <item>\u25CF Mahasiswa kurang mampu menjelaskan arah penelitian dan analisis skripsi secara benar.
+            \n\n\u25CF Mengerjakan tugas/ instruksi/ revisi dari pembimbing secara mandiri dengan bantuan dosen.
+            \n\n\u25CF Kurang Memiliki inisiatif untuk bertanya apabila menemukan hal-hal yang belum dimengerti.</item>
+        <item>\u25CF Mahasiswa mampu menjelaskan arah penelitian dan analisis skripsi secara benar.
+            \n\n\u25CF Mengerjakan tugas/ instruksi/ revisi dari pembimbing secara mandiri dengan bantuan dosen.
+            \n\n\u25CF Memiliki inisiatif untuk bertanya apabila menemukan hal-hal yang belum dimengerti.</item>
+        <item>\u25CF Mahasiswa mampu menjelaskan arah penelitian dan analisis skripsi secara benar.
+            \n\n\u25CF Mengerjakan tugas/ instruksi/ revisi dari pembimbing secara mandiri (tanpa bantuan dosen).
+            \n\n\u25CF Memiliki inisiatif untuk bertanya apabila menemukan hal-hal yang belum dimengerti.</item>
+        <item>\u25CF Mahasiswa mampu menjelaskan arah penelitian dan analisis skripsi secara benar.
+            \n\n\u25CF Mengerjakan tugas/ instruksi/ revisi dari pembimbing secara mandiri (tanpa bantuan dosen).
+            \n\n\u25CF Memiliki inisiatif tinggi untuk bertanya apabila menemukan hal-hal yang belum dimengerti.</item>
+    </string-array>
+    <string-array name="desc1.2.2">
+        <item>\u25CF Tidak mampu menjalankan seluruh target yang diberikan pada saat P0 dengan tepat waktu.</item>
+        <item>\u25CF Mampu menjalankan sampai dengan 20% target yang diberikan pada saat P0 dengan tepat waktu.</item>
+        <item>\u25CF Mampu menjalankan sampai dengan 40% target yang diberikan pada saat P0 dengan tepat waktu.</item>
+        <item>\u25CF Mampu menjalankan sampai dengan 50% target yang diberikan pada saat P0 dengan tepat waktu.</item>
+        <item>\u25CF Mampu menjalankan sampai dengan 70% target yang diberikan pada saat P0 dengan tepat waktu.</item>
+        <item>\u25CF Mampu menjalankan sampai dengan 80% target yang diberikan pada saat P0 dengan tepat waktu.</item>
+        <item>\u25CF Mampu menjalankan sampai dengan 100% target yang diberikan pada saat P0 dengan tepat waktu.</item>
+    </string-array>
+    <string-array name="desc1.3.3">
+        <item>\u25CF Pengerjaan skripsi tidak sesuai dengan arahan pembimbing.
+            \n\n\u25CF Tidak mampu melaksanakan tugas-tugas yang sifatnya divergen.
+            \n\n\u25CF Selalu tidak tepat waktu dalam mengerjakan tugas atau dalam proses bimbingan.</item>
+        <item>\n\u25CF Pengerjaan skripsi sesuai dengan arahan pembimbing secara benar dan mandiri sampai dengan 50%.
+            \n\n\u25CF Tidak mampu melaksanakan tugas-tugas yang sifatnya divergen.
+            \n\n\u25CF Mampu mengerjakan tugas berdasarkan target pembimbing namun dalam ada beberapa yang tidak tepat waktu.</item>
+        <item>\u25CF Pengerjaan skripsi sesuai dengan arahan pembimbing secara benar dan mandiri sampai dengan 50%.
+            \n\n\u25CF Mampu melaksanakan tugas-tugas yang sifatnya divergen, namun kurang terdapat ketertarikan berdiskusi.
+            \n\n\u25CF Mampu mengerjakan tugas berdasarkan target pembimbing namun dalam ada beberapa yang tidak tepat waktu.</item>
+        <item>\u25CF Pengerjaan skripsi sesuai dengan arahan pembimbing secara benar dan mandiri sampai dengan 80%.
+            \n\n\u25CF Mampu melaksanakan tugas-tugas yang sifatnya divergen, namun kurang terdapat ketertarikan berdiskusi.
+            \n\n\u25CF Mampu mengerjakan tugas berdasarkan target pembimbing namun dalam ada beberapa yang tidak tepat waktu.</item>
+        <item>\u25CF Pengerjaan skripsi sesuai dengan arahan pembimbing secara benar dan mandiri sampai dengan 80%.
+            \n\n\u25CF Mampu melaksanakan tugas-tugas yang sifatnya divergen, yang ditandai dengan adanya ketertarikan berdiskusi.
+            \n\n\u25CF Mampu mengerjakan tugas berdasarkan target pembimbing tepat waktu.</item>
+        <item>\u25CF Pengerjaan skripsi sesuai dengan arahan pembimbing secara benar dan mandiri sampai dengan 100%.
+            \n\n\u25CF Mampu melaksanakan tugas-tugas yang sifatnya divergen, yang ditandai dengan adanya ketertarikan berdiskusi.
+            \n\n\u25CF Mampu mengerjakan tugas berdasarkan target pembimbing tepat waktu.</item>
+        <item>\u25CF Pengerjaan skripsi sesuai dengan arahan pembimbing secara benar dan mandiri sampai dengan 100%.
+            \n\n\u25CF Mampu melaksanakan tugas-tugas yang sifatnya divergen, yang ditandai dengan adanya ketertarikan berdiskusi.
+            \n\n\u25CF Mampu mengerjakan tugas berdasarkan target pembimbing tepat waktu.
+            \n\n\u25CF Mampu membuat deskripsi logbook bimbingan yang bersifat deskriptif dan lengkap.</item>
+    </string-array>
+    <string-array name="desc1.4.4">
+        <item>\u25CF Mahasiswa tidak berkomitmen terhadap tugasnya.
+            \n\n\u25CF Mahasiswa tidak berani mengakui kesalahan dan menerima diri apa adanya.
+            \n\n\u25CF Mahasiswa tidak sopan dalam penampilan(bersih, rapi, dan/atau menutup aurat bagi yang merasa perlu) dan sikap.</item>
+        <item>\u25CF Mahasiswa tidak berkomitmen terhadap tugasnya.
+            \n\n\u25CF Mahasiswa kurang berani mengakui kesalahan dan menerima diri apa adanya.
+            \n\n\u25CF Mahasiswa tidak sopan dalam penampilan(bersih, rapi, dan/atau menutup aurat bagi yang merasa perlu) dan sikap.\n</item>
+        <item>\u25CF Mahasiswa kurang berkomitmen tinggi terhadap tugasnya (disiplin dan berdaya juang tinggi).
+            \n\n\u25CF Mahasiswa kurang berani mengakui kesalahan dan menerima diri apa adanya.
+            \n\n\u25CF Mahasiswa tidak sopan dalam penampilan(bersih, rapi, dan/atau menutup aurat bagi yang merasa perlu) dan sikap.</item>
+        <item>\u25CF Mahasiswa kurang berkomitmen tinggi terhadap tugasnya (disiplin dan berdaya juang tinggi).
+            \n\n\u25CF Mahasiswa kurang berani mengakui kesalahan dan menerima diri apa adanya.
+            \n\n\u25CF Mahasiswa sopan dalam penampilan(bersih, rapi, dan/atau menutup aurat bagi yang merasa perlu) dan sikap.</item>
+        <item>\u25CF Mahasiswa kurang berkomitmen tinggi terhadap tugasnya (disiplin dan berdaya juang tinggi).
+            \n\n\u25CF Mahasiswa berani mengakui kesalahan dan menerima diri apa adanya.
+            \n\n\u25CF Mahasiswa sopan dalam penampilan(bersih, rapi, dan/atau menutup aurat bagi yang merasa perlu) dan sikap.</item>
+        <item>\u25CF Mahasiswa berkomitmen tinggi terhadap tugasnya (disiplin dan berdaya juang tinggi).
+            \n\n\u25CF Mahasiswa kurang berani mengakui kesalahan dan menerima diri apa adanya
+            \n\n\u25CF Mahasiswa sopan dalam penampilan(bersih, rapi, dan/atau menutup aurat bagi yang merasa perlu) dan sikap.</item>
+        <item>\u25CF Mahasiswa berkomitmen tinggi terhadap tugasnya (disiplin dan berdaya juang tinggi).
+            \n\n\u25CF Mahasiswa berani mengakui kesalahan dan menerima diri apa adanya.
+            \n\n\u25CF Mahasiswa sopan dalam penampilan(bersih, rapi, dan/atau menutup aurat bagi yang merasa perlu) dan sikap.</item>
+    </string-array>
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+    <string name="komponen2">Kualitas Dokumen</string>
+    <string name='kriteria2.1'>Kemampuan Mendefinisikan Masalah</string>
+    <string name='kriteria2.2'>Penyusunan metodologi</string>
+    <string name='kriteria2.3'>Kemampuan untuk membahas sesuai dengan aspek kecukupan pada topik penelitian</string>
+    <string name='kriteria2.4'>Penulisan yang memenuhi kaidah yang benar</string>
+    <string-array name="desc2.1.1">
+        <item>\u25CF Mahasiswa tidak mengerti sama sekali maksud dari permasalahan yang diangkat menjadi judul penelitian</item>
+        <item>\u25CF Mahasiswa kurang mampu mengidentifika si dan memecahkan masalah.
+            \n\n\u25CF Mahasiswa kurang mengerti hubungan antara masalah dan solusi yang digunakan dalam memecahkan masalah.
+            \n\n\u25CF Mahasiswa tidak mampu mendeskripsika n permasalahan dengan jelas dan benar serta literatur pendukung tidak ada.\n</item>
+        <item>\u25CF Mahasiswa kurang mampu mengidentifikasi dan memecahkan masalah.\n\n\u25CF Mahasiswa kurang mengerti hubungan antara masalah dan solusi yang digunakan dalam memecahkan masalah.
+            \n\n\u25CF Mahasiswa mampu mendeskripsikan permasalahan dengan jelas dan benar namun kurang disertai literatur pendukung.</item>
+        <item>\u25CF Mahasiswa mampu mengidentifikasi dan memecahkan masalah.\n\n\u25CF
+Mahasiswa kurang mengerti hubungan antara masalah dan solusi yang digunakan dalam memecahkan masalah.\n\n\u25CF Mahasiswa mampu mendeskripsikan permasalahan dengan jelas dan benar namun kurang disertai literatur pendukung.</item>
+        <item>\u25CF Mahasiswa mampu mengidentifikasi dan memecahkan masalah.\n\n\u25CF Mahasiswa mengerti hubungan antara masalah dan solusi yang digunakan dalam memecahkan masalah.\n\n\u25CF Mahasiswa mampu mendeskripsikan permasalahan dengan jelas dan benar namun kurang disertai literatur pendukung.</item>
+        <item>\u25CF Mahasiswa mampu mengidentifikasi dan memecahkan masalah.\n\n\u25CF Mahasiswa mengerti hubungan antara masalah dan solusi yang digunakan dalam memecahkan masalah.\n\n\u25CF Mahasiswa mampu mendeskripsika n permasalahan dengan jelas dan benar  disertai dengan literatur pendukung yang relevan.</item>
+        <item>\u25CF Mahasiswa mampu mengidentifikasi dan memecahkan masalah .\n\n\u25CF Mahasiswa mengerti hubungan antara masalah dan solusi yang digunakan dalam memecahkan masalah.\n\n\u25CF
+Mahasiswa mampu mendeskripsikan permasalahan dengan jelas dan benar disertai dengan literatur pendukung yang relevan.\n\n\u25CF Mendefinisikan permasalahan dengan didukung literatur 5 tahun terakhir.</item>
+    </string-array>
+    <string-array name="desc2.2.2">
+        <item>\u25CF Metodologi penelitiannya tidak sesuai dengan kegiatan penelitian sampai dengan</item>
+        <item>\u25CF Metodologi penelitiannya sesuai dengan kegiatan penelitian sampai dengan 20%</item>
+        <item>\u25CF Metodologi penelitiannya sesuai dengan kegiatan penelitian sampai dengan 40%</item>
+        <item>\u25CF Metodologi penelitiannya sesuai dengan kegiatan penelitian sampai dengan 50%</item>
+        <item>\u25CF Metodologi penelitiannya sesuai dengan kegiatan penelitian sampai dengan 70%</item>
+        <item>\u25CF Metodologi penelitiannya sesuai dengan kegiatan penelitian sampai dengan 80%</item>
+        <item>\u25CF Metodologi penelitian sesuai dengan kegiatan penelitian sampai dengan 100%</item>
+    </string-array>
+    <string-array name="desc2.3.3">
+        <item>\u25CF Tidak mampu membahas sesuai dengan kecukupan keminatan.</item>
+        <item>\u25CF Mampu membahas sesuai dengan kecukupan keminatan sampai dengan 20%</item>
+        <item>\u25CF Mampu membahas sesuai dengan kecukupan keminatan sampai dengan 40%</item>
+        <item>\u25CF Mampu membahas sesuai dengan kecukupan keminatan sampai dengan 50%</item>
+        <item>\u25CF Mampu membahas sesuai dengan kecukupan keminatan sampai dengan 70%</item>
+        <item>\u25CF Mampu membahas sesuai dengan kecukupan keminatan sampai dengan 80%</item>
+        <item>\u25CF Mampu membahas sesuai dengan kecukupan keminatan sampai dengan 100%</item>
+    </string-array>
+    <string-array name="desc2.4.4">
+        <item>\u25CF Pembuatan skripsi tidak mengacu pada panduan yang telah ditetapkan fakultas.</item>
+        <item>\u25CF Seluruh bagian (awal, inti dan akhir) sudah sesuai panduan</item>
+        <item>\u25CF Seluruh bagian (awal, inti dan akhir) sudah sesuai panduan.\n\n\u25CF Isi setiap bagian sudah lengkap.</item>
+        <item>\u25CF Seluruh bagian (awal, inti dan akhir) sudah sesuai panduan.\n\n\u25CF Isi setiap bagian sudah lengkap.\n\n\u25CF Urutan Bagian awal, inti, dan akhir sudah benar sesuai dengan panduan.</item>
+        <item>\u25CF Seluruh bagian (awal, inti dan akhir) sudah sesuai panduan.\n\n\u25CF Isi setiap bagian sudah lengkap.\n\n\u25CF Urutan Bagian awal, inti, dan akhir sudah benar sesuai dengan panduan.
+            \n\n\u25CF Membuat daftar pustaka dan sitasi dengan cara yang benar.</item>
+        <item>\u25CF Seluruh bagian (awal, inti dan akhir) sudah sesuai panduan.\n\n\u25CF Isi setiap bagian sudah lengkap.
+            \n\n\u25CF Penulisan sesuai dengan kaidah Bahasa Indonesia yang baik dan benar.
+            \n\n\u25CF Urutan Bagian awal, inti, dan akhir sudah benar sesuai dengan panduan.
+            \n\n\u25CF Membuat daftar pustaka dan sitasi dengan cara yang benar.</item>
+        <item>\u25CF Seluruh bagian (awal, inti dan akhir) sudah sesuai panduan.
+            \n\n\u25CF Format penulisan sesuai panduan.
+            \n\n\u25CF Isi setiap bagian sudah lengkap.
+            \n\n\u25CF Penulisan sesuai dengan kaidah Bahasa Indonesia yang baik dan benar.
+            \n\n\u25CF Urutan Bagian awal, inti, dan akhir sudah benar sesuai dengan panduan.
+            \n\n\u25CF Membuat daftar pustaka dan sitasi dengan cara yang benar.</item>
+    </string-array>
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+    <string name="komponen3">Presentasi</string>
+    <string name='kriteria3.1'>Sistematika presentasi</string>
+    <string name="kriteria3.2">Kemampuan menjelaskan poin-poin pentin</string>
+    <string name='kriteria3.3'>Teknik presentasi</string>
+    <string name='kriteria3.4'>Sikap dan perilaku</string>
+    <string name='kriteria3.5'>Kreatifitas presentasi</string>
+    <string name="kriteria3.6">Kemampuan mengatur waktu presentasi di luar demo (jika ada)</string>
+    <string-array name="desc3.1.1">
+        <item>\u25CF Tidak memenuhi kelengkapan presentas</item>
+        <item>\u25CF Tidak memenuhi kelengkapan presentas</item>
+        <item>\u25CF Memenuhi sampai dengan 4 kelengkapan presentasi</item>
+        <item>\u25CF Memenuhi sampai dengan 5 kelengkapan presentasi</item>
+        <item>\u25CF Memenuhi sampai dengan 7 kelengkapan presentasi</item>
+        <item>\u25CF Memenuhi 8 kelengkapan presentasi</item>
+        <item>\u25CF Memenuhi 8 kelengkapan presentasi
+            \n\n\u25CF Ada tambahan pembahasan diluar yang ditetapkan</item>
+    </string-array>
+    <string-array name="desc3.2.2">
+        <item>\u25CF Mampu menjelaskan secara rinci 2 poin penting</item>
+        <item>\u25CF Mampu menjelaskan secara rinci 3 poin penting</item>
+        <item>\u25CF Mampu menjelaskan secara rinci 4 poin penting</item>
+        <item>\u25CF Mampu menjelaskan secara rinci 5 poin penting</item>
+        <item>\u25CF Mampu menjelaskan secara rinci 6 poin penting</item>
+        <item>\u25CF Mampu menjelaskan secara rinci 7 poin penting</item>
+        <item>\u25CF Mampu menjelaskan secara rinci 8 poin penting</item>
+    </string-array>
+    <string-array name="desc3.3.3">
+        <item>\u25CF Suara tidak jelas, artikulasi buruk dan tidak percaya diri.
+            \n\n\u25CF Intonasi suara buruk.
+            \n\n\u25CF Tidak memanfaatkan kontak mata dan selalu melihat catatan.</item>
+        <item>\u25CF Suara kurang jelas, artikulasi buruk dan tidak percaya diri.
+            \n\n\u25CF Intonasi suara buruk.
+            \n\n\u25CF Tidak memanfaatkan kontak mata dan selalu melihat catatan.</item>
+        <item>\u25CF Suara kurang jelas, artikulasi kurang baik dan kurang percaya diri.
+            \n\n\u25CF Intonasi suara kurang.
+            \n\n\u25CF Memanfaatkan kontak mata dan jarang melihat cataatn.</item>
+        <item>\u25CF Suara kurang jelas, artikulasi kurang baik dan kurang percaya dir.
+            \n\u25CF Intonasi suara kurang.
+            \n\n\u25CF Memanfaatkan kontak mata dan jarang melihat catatan.</item>
+        <item>\u25CF Suara jelas, artikulasi baik dan percaya diri.
+            \n\n\u25CF Intonasi suara kurang.
+            \n\n\u25CF Kurang memanfaatkan kontak mata dan jarang melihat catatan.</item>
+        <item>\u25CF Suara jelas, artikulasi baik dan percaya diri.
+            \n\n\u25CF Intonasi suara baik.
+            \n\n\u25CF Menarik perhatian peserta sidang: memanfaatkan kontak mata dan jarang melihat catatan.</item>
+        <item>\u25CF Suara jelas, artikulasi baik dan percaya diri.
+            \n\n\u25CF Intonasi suara baik dan ada penekanan pada beberapa point penting.
+            \n\n\u25CF Menarik perhatian peserta sidang: memanfaatkan kontak mata dan tanpa melihat catatan.</item>
+    </string-array>
+    <string-array name="desc3.4.4">
+        <item>\u25CF Pakaian tidak rapi.
+            \n\n\u25CF Bahasa tubuh tidak baik dan sering melakukan gerakan yang tidak perlu.
+            \n\n\u25CF Bersikap tidak santun, dan tidak antusias selama presentasi.
+            \n\n\u25CF Berdiri tidak sempurna dan tidak percaya diri.</item>
+        <item>\u25CF Pakaian tidak rapi.
+            \n\n\u25CF Bahasa tubuh tidak baik dan sering melakukan gerakan yang tidak perlu.
+            \n\n\u25CF Bersikap kurang santun, dan tidak antusias selama presentasi.
+            \n\n\u25CF Berdiri kurang sempurna dan kurang percaya diri.</item>
+        <item>\u25CF  Pakaian tidak rapih.
+            \n\n\u25CF Bahasa tubuh tidak baik dan sering melakukan gerakan yang tidak perlu.
+            \n\n\u25CF Bersikap kurang santun, sedikit gugup, dan kurang antusias selama presentasi.
+            \n\n\u25CF Berdiri kurang sempurna dan kurang percaya diri.</item>
+        <item>\u25CF Pakaian kurang rapih.
+            \n\n\u25CF Bahasa tubuh kurang baik dan terdapat gerakan yang sedikit menggangu.
+            \n\n\u25CF Bersikap santun, sedikit gugup, dan antusias selama presentasi.
+            \n\n\u25CF Berdiri sempurna dan percaya diri.</item>
+        <item>\u25CF Pakaian kurang rapi.
+            \n\n\u25CF Bahasa tubuh kurang baik dan terdapat gerakan yang sedikit menggangu.
+            \n\n\u25CF Bersikap santun, sedikit gugup, dan antusias selama presentasi.
+            \n\n\u25CF Berdiri sempurna dan percaya diri.</item>
+        <item>\u25CF Pakaian rapi sesuai dengan yang ditentukani.
+            \n\n\u25CF Bahasa tubuh baik dan cocok dengan materi yang disampaikani.
+            \n\n\u25CF Bersikap santun, sedikit gugup, namun antusias selama presentasii.
+            \n\n\u25CF Berdiri sempurna dan percaya diri.</item>
+        <item>\u25CF Pakaian rapi sesuai dengan yang ditentukan.
+            \n\n\u25CF Bersikap santun, tenang, dan antusias selama presentasi.
+            \n\n\u25CF Berdiri sempurna dan percaya diri.</item>
+    </string-array>
+    <string-array name="desc3.5.5">
+        <item>\u25CF Desain slide presentasi tidak menarik.
+            \n\n\u25CF Slide tidak didukung dengan gambar.
+            \n\n\u25CF Semua Slide menampilkan terlalu banyak teks.
+            \n\n\u25CF Seluruh bagian slide tidak terbaca dengan jelas.</item>
+        <item>\u25CF Desain slide presentasi tidak menarik.
+            \n\n\u25CF Slide tidak didukung dengan gambar.
+            \n\n\u25CF Beberapa Slide menampilkan terlalu banyak teks.
+            \n\n\u25CF Ada bagian slide kurang terbaca dengan jelas.</item>
+        <item>\u25CF Desain slide presentasi kurang menarik.
+            \n\n\u25CF Slide tidak didukung dengan gambar. Beberapa Slide menampilkan terlalu banyak teks.
+            \n\n\u25CF Ada bagian slide kurang terbaca dengan jelas.</item>
+        <item>\u25CF Desain slide presentasi kurang menarik.
+            \n\n\u25CF Slide didukung dengan gambar, beberapa slide terdapat terlalu banyak teks.
+            \n\n\u25CF Ada bagian slide kurang terbaca dengan jelas.</item>
+        <item>\u25CF Desain slide presentasi menarik.
+            \n\n\u25CF Slide didukung dengan gambar, beberapa slide terdapat terlalu banyak teks.
+            \n\n\u25CF Ada bagian slide kurang terbaca dengan jelas.</item>
+        <item>\u25CF Desain slide presentasi menarik.
+            \n\n\u25CF Slide didukung dengan gambar, beberapa slide terdapat terlalu banyak teks.
+            \n\n\u25CF Setiap slide terbaca dengan jelas.</item>
+        <item>\u25CF Desain slide presentasi menarik.
+            \n\n\u25CF Slide didukung dengan multimedia (text, gambar, suara, video, dan animasi) sesuai materi.
+            \n\n\u25CF Setiap slide terbaca dengan jelas.</item>
+    </string-array>
+    <string-array name="desc3.6.6">
+        <item>\u25CF Melebihi waktu presentasi selama >= 15 menit</item>
+        <item>\u25CF Melebihi waktu presentasi sampai dengan 12 menit</item>
+        <item>\u25CF Melebihi waktu presentasi sampai dengan 10 menit</item>
+        <item>\u25CF Melebihi waktu presentasi sampai dengan 7 menit</item>
+        <item>\u25CF Melebihi waktu presentasi sampai dengan 5 menit</item>
+        <item>\u25CF Melebihi waktu presentasi sampai dengan 2 menit</item>
+        <item>\u25CF Waktu presentasi sampai dengan 15 menit</item>
+    </string-array>
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+    <string name="komponen4">Argumentasi</string>
+    <string name='kriteria4.1'>Akurasi menjawab pertanyaan</string>
+    <string name="kriteria4.2">Kemampuan merespon pertanyaan</string>
+    <string name='kriteria4.3'>Sikap dan perilaku</string>
+    <string name='kriteria4.4'>Pengetahuan komprehensif aspek teori dan praktis dari subyek yang ditanyakan</string>
+    <string-array name="desc4.1.1">
+        <item>\u25CF Tidak ada jawaban yang benar. (minimal 5 pertanyaan)</item>
+        <item>\u25CF Jawaban tepat dan benar sampai dengan 20%. (minimal 5 pertanyaan)</item>
+        <item>\u25CF Jawaban tepat dan benar sampai dengan 40%. (minimal 5 pertanyaan)</item>
+        <item>\u25CF Jawaban tepat dan benar sampai dengan 50%. (minimal 5 pertanyaan)</item>
+        <item>\u25CF Jawaban tepat dan benar sampai dengan 70%. (minimal 5 pertanyaan)</item>
+        <item>\u25CF Jawaban tepat dan benar sampai dengan 80%. (minimal 5 pertanyaan)</item>
+        <item>\u25CF Jawaban tepat dan benar sampai dengan 100%. (minimal 5 pertanyaan)</item>
+    </string-array>
+    <string-array name="desc4.2.2">
+        <item>\u25CF Tidak mampu menjawab sama sekali</item>
+        <item>\u25CF Menjawab dengan berfikir sampai dengan 20 detik.
+            \n\n\u25CF Jawaban langsung mengarah dengan apa yang ditanyakan sampai dengan 20%.\n</item>
+        <item>\u25CF Menjawab dengan berfikir sampai dengan 15 detik.\n\n\u25CF Jawaban langsung mengarah dengan apa yang ditanyakan sampai dengan 50%.\n</item>
+        <item>\u25CF Menjawab dengan berfikir sampai dengan 10 detik.\n\n\u25CF Jawaban langsung mengarah dengan apa yang ditanyakan sampai dengan 80%.\n</item>
+        <item>\u25CF Menjawab dengan berfikir sampai dengan 5 detik.\n\n\u25CF Jawaban langsung mengarah dengan apa yang ditanyakan sampai dengan 80%.\n</item>
+        <item>\u25CF Menjawab dengan berfikir sampai dengan 3 detik.
+            \n\n\u25CF Jawaban langsung mengarah dengan apa yang ditanyakan sampai dengan 100%.\n</item>
+        <item>\u25CF Menjawab dengan berfikir sampai dengan 3 detik.\n\n\u25CF Jawaban langsung mengarah dengan apa yang ditanyakan sampai dengan 100%.
+            \n\n\u25CF Perhatian baik terhadap pertanyaan yang diajukan, tanpa meminta untuk mengulang pertanyaan.\n</item>
+    </string-array>
+    <string-array name="desc4.3.3">
+        <item>\u25CF Tidak menggunakan sama sekali Bahasa Indonesia dengan baik dan benar.
+            \n\n\u25CF Tidak Tegas sama sekali dalam menjawab pertanyaan.
+            \n\n\u25CF Berdiri tidak sempurna sama sekali dan tidak percaya diri.\n</item>
+        <item>\u25CF Tidak menggunakan Bahasa Indonesia dengan baik dan benar.
+            \n\n\u25CF Kurang Tegas dalam menjawab pertanyaan.
+            \n\n\u25CF Berdiri kurang sempurna dan kurang percaya diri.\n</item>
+        <item>\u25CF Menggunakan Bahasa Indonesia dengan kurang baik.
+            \n\n\u25CF Kurang tegas dalam menjawab pertanyaan.
+            \n\n\u25CF Berdiri kurang sempurna dan kurang percaya diri.\n</item>
+        <item>\u25CF Menggunakan Bahasa Indonesia dengan kurang baik.
+            \n\n\u25CF Tegas dalam menjawab pertanyaan.
+            \n\n\u25CF Berdiri sempurna namun kurang percaya diri.\n</item>
+        <item>\u25CF Menggunakan Bahasa Indonesia dengan baik dan benar.
+            \n\n\u25CF Kurang tegas dalam menjawab pertanyaan.
+            \n\n\u25CF Berdiri sempurna namun kurang percaya diri.\n</item>
+        <item>\u25CF Menggunakan Bahasa Indonesia dengan baik dan benar.
+            \n\n\u25CF Tegas dalam menjawab pertanyaan.
+            \n\n\u25CF Berdiri sempurna dan percaya diri.\n</item>
+        <item>\u25CF Menggunakan Bahasa Indonesia dengan baik dan benar.
+            \n\n\u25CF Tegas dalam menjawab pertanyaan.\n\n\u25CF Berdiri sempurna dan percaya diri.
+            \n\n\u25CF Mampu mempertahankan dan menanggapi pertanyaan/ sanggahan dengan bijak.\n</item>
+    </string-array>
+    <string-array name="desc4.4.4">
+        <item>\u25CF Tidak ada teori pendukung sama sekali</item>
+        <item>\u25CF Ada dukungan teori/data yang benar sampai dengan 20% jawaban yang diberikan</item>
+        <item>\u25CF Ada dukungan teori/data yang benar sampai dengan 50% jawaban yang diberikan</item>
+        <item>\u25CF Ada dukungan teori/data yang benar sampai dengan 50% jawaban yang diberikan</item>
+        <item>\u25CF Ada dukungan teori/data yang benar sampai dengan 80% jawaban yang diberikan</item>
+        <item>\u25CF Ada dukungan teori/data yang benar sampai dengan 100% jawaban yang diberikan</item>
+        <item>\u25CF Ada dukungan teori/data yang benar sampai dengan 100% jawaban yang diberikan.
+            \n\n\u25CF Dukungan teori/data yang disampaikan tanpa diminta oleh penguji.\n</item>
+    </string-array>
+
+    ////////////////////////////////////////////////////////////////////////////////////////////////
+    <string name="komponen5">Kualitas Artifak</string>
+    <string name='kriteria5.1'>Tingkat Penguasaan Mahasiswa Terhadap Artifak</string>
+    <string name="kriteria5.2">Tingkat Validitas Artifak</string>
+    <string name='kriteria5.3'>Tingkat Ketuntas Artifak</string>
+    <string name="indikator6">Naskah Publikasi</string>
+    <string-array name="desc5.1.1">
+        <item>\u25CF Tidak mampu menjelaskan sama sekali.
+            \n\n\u25CF Tidak mampu menunjukan dan menjelaskan bagian/ modul/ klas/ alur kerja/ nilai-nilai dari sistem.\n</item>
+        <item>\u25CF Mampu menjelaskan sistem yang dibangun secara umum meliputi 1 bagian dari input,output, proses.
+            \n\n\u25CF Mampu menunjukan dan menjelaskan dengan tepat sampai dengan 20% bagian bagian dari artifak yang ditanyakan.(Minimal 3 pertanyaan).\n</item>
+        <item>\u25CF Mampu menjelaskan sistem yang dibangun secara umum meliputi 1 bagian dari input,output, proses.
+            \n\n\u25CF Mampu menunjukan dan menjelaskan dengan tepat sampai dengan 50% bagianbagian dari artifak yang ditanyakan.(Minimal 3 pertanyaan).\n</item>
+        <item>\u25CF Mampu menjelaskan sistem yang dibangun secara umum meliputi 2 bagian dari input,output, proses.
+            \n\n\u25CF Mampu menunjukan dan menjelaskan dengan tepat sampai dengan 50% bagianbagian dari artifak yang ditanyakan.(Minimal 3 pertanyaan).\n</item>
+        <item>\u25CF Mampu menjelaskan sistem yang dibangun secara umum meliputi 3 bagian yaitu: input,output, proses.
+            \n\n\u25CF Mampu menunjukan dan menjelaskan dengan tepat sampai dengan 80% bagianbagian dari artifak yang ditanyakan.(Minimal 3 pertanyaan).\n</item>
+        <item>\u25CF Mampu menjelaskan sistem yang dibangun secara umum meliputi 3 bagian yaitu: input,output, proses.
+            \n\n\u25CF Mampu menunjukan dan menjelaskan dengan tepat sampai dengan 100% bagianbagian dari artifak yang ditanyakan.(Minimal 3 pertanyaan).\n</item>
+        <item>\u25CF Mampu menjelaskan sistem yang dibangun secara umum meliputi 3 bagian yaitu: input,output, proses.
+            \n\n\u25CF Mampu menunjukan dan menjelaskan dengan tepat sampai dengan 100%, bagianbagian dari artifak yang ditanyakan. (Minimal 3 pertanyaan).
+            \n\n\u25CF Mampu menjelaskan/ mengimplementasikan cara penyelesaian masalah yang lebih baik pada artifak. Minimal 1 pertanyaan. (contoh: tantangan untuk menambahkan data input, optimasi query, dll).\n</item>
+    </string-array>
+    <string-array name="desc5.2.2">
+        <item>\u25CF Model/ Framework tidak sesuai dengan referensi/ standart/ acuan yang digunakan.
+            \n\n\u25CF Artifak tidak sesuai dengan model/ perencanaan/ rancangan/ framework yang tertulis pada dokumen.\n</item>
+        <item>\u25CF Model/ Framework sesuai dengan referensi/ standart/ acuan yang digunakan sampai dengan 20%.
+            \n\n\u25CF Artifak sesuai dengan model/ framework yang tertulis pada dokumen sampai dengan 20%..\n</item>
+        <item>\u25CF Model/ Framework sesuai dengan referensi/ standart/ acuan yang digunakan sampai dengan 50%.
+            \n\n\u25CF Artifak sesuai dengan model/ framework yang tertulis pada dokumen sampai dengan 50%.\n</item>
+        <item>\u25CF Model/ Framework sesuai dengan referensi/ standart/ acuan yang digunakan sampai dengan 50%.
+            \n\n\u25CF Artifak sesuai dengan model/ framework yang tertulis pada dokumen sampai dengan 50%.\n</item>
+        <item>\u25CF Model/ Framework sesuai dengan referensi/ standart/ acuan yang digunakan sampai dengan 80%.
+            \n\n\u25CF Artifak sesuai dengan model/ framework yang tertulis pada dokumen sampai dengan 80%.\n</item>
+        <item>\u25CF Model/ Framework sesuai dengan referensi/ standart/ acuan yang digunakan sampai dengan 100%.
+            \n\n\u25CF Artifak sesuai dengan model/ framework yang tertulis pada dokumen sampai dengan 100%.\n</item>
+        <item>\u25CF Model/ Framework sesuai dengan referensi/ standart/ acuan yang digunakan sampai dengan 100%.
+            \n\n\u25CF Artifak sesuai dengan model/ framework yang tertulis pada dokumen sampai dengan 100%.
+            \n\n\u25CF Artifak disajikan dengan baik sehingga mudah untuk dibaca dan dipahami (contoh: memberikan komentar pada coding, memberikan keterangan pada hasil analisis data untuk penelitian non implementatif,dll).\n</item>
+    </string-array>
+    <string-array name="desc5.3.3">
+        <item>\u25CF Artifak tidak selesai sama sekali.</item>
+        <item>\u25CF Implementasi artifak selesai sampai dengan 20%</item>
+        <item>\u25CF Implementasi artifak selesai sampai dengan 40%</item>
+        <item>\u25CF Implementasi artifak selesai sampai dengan 50%</item>
+        <item>\u25CF Implementasi artifak selesai sampai dengan 70%</item>
+        <item>\u25CF Implementasi artifak selesai sampai dengan 80%</item>
+        <item>\u25CF Implementasi artifak selesai sampai dengan 100%</item>
+    </string-array>
+</resources>

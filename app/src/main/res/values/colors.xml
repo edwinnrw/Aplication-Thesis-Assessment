@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF5722</color>
+    <color name="colorPrimaryDark">#E64A19</color>
+    <color name="colorAccent">#FF5722</color>
+    <color name="colorBlueFilkom">#0196c8</color>
+    <color name="colorIconEnabledMenu">#68d9ff</color>
+    <color name="colorBlackGreyFilkom">#262626</color>
+    <color name="colorOrangeFilkom">#d64909</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorBlackFilkom">#262626</color>
+    <color name="colorrGreyFilkom">#707070</color>
+    <color name="colorOrangeLight">#ff8a50</color>
+    <color name="colorCyan">#06A7E1</color>
+    <color name="colorBlue">#0E85B0</color>
+    <color name="colorBluedeFrance">#3C89F9</color>
+    <color name="colorAshGrey">#B2B3B6</color>
+    <color name="colorLava">#d1151a</color>
+    <color name="colorWhiteSmoke">#F5F5F5</color>
+    <color name="colorQuarts">#4a4a4a</color>
+    <color name="colorGrey">#e7e7e7</color>
+    <color name="colorManatee">#9B9B9B</color>
+    <color name="colorUclaBlue">#5253AA</color>
+    <color name="colorDarkTangerine">#f5a623</color>
+    <color name="colorAppleGreen">#B9BA00</color>
+    <color name="colorGreen">#7ed321</color>
+    <color name="colorLineGreyArtiker">#979797</color>
+    <color name="black_alpha_40">#66000000</color>
+    <color name="shadowColor">#3a000000</color>
+    <color name="colorLineCard">#ce4844</color>
+    <color name="colorDisableButton">#d5d5d5</color>
+    <color name="colorKetuaMajelis">#ce4844</color>
+    <color name="colorPembimbing">#00a65a</color>
+    <color name="colorPenguji">#001f3f</color>
+    //colorFilkomNew
+    <color name="colorToolbarFilkomNew">#232e40</color>
+    <color name="colorOrangeFilkomNewApp">#fb861e</color>
+    <color name="placeholder_bg">#dddddd</color>
+</resources>
